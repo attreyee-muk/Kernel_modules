@@ -1,0 +1,1 @@
+cmd_/home/attreyee/Desktop/module_trial/hello_world.mod := printf '%s\n'   hello_world.o | awk '!x[$$0]++ { print("/home/attreyee/Desktop/module_trial/"$$0) }' > /home/attreyee/Desktop/module_trial/hello_world.mod

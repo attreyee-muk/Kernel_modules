@@ -1,0 +1,1 @@
+cmd_/home/attreyee/Desktop/module_trial/hello_world.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/attreyee/Desktop/module_trial/hello_world.ko /home/attreyee/Desktop/module_trial/hello_world.o /home/attreyee/Desktop/module_trial/hello_world.mod.o;  true
