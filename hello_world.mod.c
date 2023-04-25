@@ -32,10 +32,11 @@ __used __section("__versions") = {
 	{ 0xbdfb6dbb, "__fentry__" },
 	{ 0x92997ed8, "_printk" },
 	{ 0x5b8239ca, "__x86_return_thunk" },
+	{ 0x4fa8f1f1, "param_ops_int" },
 	{ 0x541a6db8, "module_layout" },
 };
 
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "88F06E3C5514A113084A74F");
+MODULE_INFO(srcversion, "F2BCA00A440F68F29048846");
